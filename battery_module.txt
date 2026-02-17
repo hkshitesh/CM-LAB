@@ -1,0 +1,4 @@
+TBSD Battery Module v1.0
+-------------------------
+- Tracks battery percentage
+- Sends warning at 20%

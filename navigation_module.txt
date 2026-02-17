@@ -1,0 +1,5 @@
+TBSD Navigation Module v1.0
+----------------------------
+- Supports waypoint navigation
+- Supports manual override
+- Battery check: basic
