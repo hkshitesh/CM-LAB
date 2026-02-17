@@ -1,0 +1,7 @@
+Change Request ID: Capt Asif 1
+Title: Add auto Return-to-Base on 40% battery
+Requested By: Capt Asif
+Priority: moderate
+Reason: more reliable return
+Modules Impacted: navigation_module.txt, battery_module.txt
+Approval Status: Pending
