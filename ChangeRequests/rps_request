@@ -1,0 +1,7 @@
+Change Request ID: CR-001
+Title: Add auto Return-to-Base on low battery
+Requested By: RPS
+Priority: Medium/rps
+Reason: Drone may crash if battery drops suddenly
+Modules Impacted: navigation_module.txt, battery_module.txt
+Approval Status: Pending
