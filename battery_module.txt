@@ -1,4 +1,6 @@
-TBSD Battery Module v1.0
+TBSD Battery Module v1.1
 -------------------------
 - Tracks battery percentage
 - Sends warning at 20%
+- Critical alert at 15%
+- Triggers Return-To-Base at 15%
