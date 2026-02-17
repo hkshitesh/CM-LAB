@@ -1,0 +1,7 @@
+Change Request ID: HITESH-CR-001
+Title: Update Battery to Lithium Bateery
+Requested By: TM-Hitesh
+Priority: Moderate
+Reason: Increase Flight Timing
+Modules Impacted: navigation_module.txt, battery_module.txt
+Approval Status: Pending
